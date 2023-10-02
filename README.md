@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Мой стек технологий
-<img src="https://img.shields.io/badge/HMTl5-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS -blue?style=for-the-badge&logo=CSS3&logoColor=black"/>
+<img src="https://img.shields.io/badge/HMTl5-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS -blue?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/telegram -blue?style=for-the-badge&logo=CSS3&logoColor=black"/>
+
 
 <img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
