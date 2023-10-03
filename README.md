@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=berstix)
 ### Мой стек технологий
 <img src="https://img.shields.io/badge/HMTl5-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS -blue?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=black"/> <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=black"/> 
 
